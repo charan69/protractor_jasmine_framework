@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="15.861">
+ <testsuite name="Sample POST" timestamp="2019-12-05T17:53:18" hostname="localhost" time="15.819" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Sample POST" name="Validate the status code" time="15.814" />
+ </testsuite>
+ <testsuite name="Sample GET" timestamp="2019-12-05T17:53:34" hostname="localhost" time="0.042" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Sample GET" name="Validate the status code" time="0.038" />
+  <testcase classname="Sample GET" name="Validate the latest record" time="0.003" />
+ </testsuite>
+</testsuites>

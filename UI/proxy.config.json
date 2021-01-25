@@ -1,0 +1,7 @@
+{
+    "/api/local/clinical": {
+        "target": "https://localhost:1405",
+        "secure": false,
+        "pathRewrite": {"^/api/local/clinical" : ""}
+    }
+}

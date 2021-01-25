@@ -1,0 +1,1 @@
+{"version":3,"file":"db.js","sourceRoot":"","sources":["../../../../../../apps/polaris-e2e/config/params/db.ts"],"names":[],"mappings":"AACA,MAAM,OAAO,QAAQ;IAArB;QACW,eAAU,GAAG;YAChB,eAAe,EAAE,UAAU;YAC3B,eAAe,EAAE,UAAU;YAC3B,aAAa,EAAE,WAAW;YAC1B,WAAW,EAAE,MAAM;YACnB,mBAAmB,EAAE,kBAAkB;SAC1C,CAAC;IACN,CAAC;CAAA"}
